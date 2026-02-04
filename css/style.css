@@ -30978,7 +30978,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   color: var(--sparta-muted);
   font-size: 12px;
 }
-.sparta__eyebrow span { color: #dc2626; }
+
 
 .sparta__title {
   margin: 0 0 8px;
@@ -30986,6 +30986,8 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   font-weight: 800;
   line-height: 1.1;
 }
+
+.sparta__title span { color: #dc2626; }
 
 .sparta__subtitle {
   margin: 0;
