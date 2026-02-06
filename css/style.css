@@ -9256,25 +9256,25 @@ mark,
 }
 
 .text-extra-big {
-	font-size: 34px;
+	font-size: 38px;
 	line-height: 1.2;
 }
 
 @media (min-width: 480px) {
 	.text-extra-big {
-		font-size: 45px;
+		font-size: 35px;
 	}
 }
 
 @media (min-width: 768px) {
 	.text-extra-big {
-		font-size: 62px;
+		font-size: 38px;
 	}
 }
 
 @media (min-width: 992px) {
 	.text-extra-big {
-		font-size: 50px;
+		font-size: 40px;
 	}
 }
 
@@ -31145,5 +31145,6 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   line-height: 1;
   user-select: none;
 }
+
 
 
