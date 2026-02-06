@@ -22777,7 +22777,7 @@ fieldset[disabled] .swiper-slide-caption .btn-default {
 }
 
 .rd-navbar-floated.rd-navbar-fixed .rd-navbar-nav li a, .rd-navbar-top-panel.rd-navbar-fixed .rd-navbar-nav li a, .rd-navbar-floated.rd-navbar-fixed .responsive-tabs .resp-accordion, .rd-navbar-top-panel.rd-navbar-fixed .responsive-tabs .resp-accordion, .rd-navbar-floated.rd-navbar-static .rd-navbar-nav > li > a, .rd-navbar-top-panel.rd-navbar-static .rd-navbar-nav > li > a, .rd-navbar-floated.rd-navbar-static .rd-navbar-dropdown li > a, .rd-navbar-top-panel.rd-navbar-static .rd-navbar-dropdown li > a, .rd-navbar-floated.rd-navbar-static .rd-navbar-megamenu li > a, .rd-navbar-top-panel.rd-navbar-static .rd-navbar-megamenu li > a {
-	font-size: 20px;
+	font-size: 16px;
 	font-weight: 700;
 	font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 	line-height: 24px;
@@ -31145,6 +31145,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   line-height: 1;
   user-select: none;
 }
+
 
 
 
