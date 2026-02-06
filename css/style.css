@@ -9262,19 +9262,19 @@ mark,
 
 @media (min-width: 480px) {
 	.text-extra-big {
-		font-size: 35px;
+		font-size: 38px;
 	}
 }
 
 @media (min-width: 768px) {
 	.text-extra-big {
-		font-size: 38px;
+		font-size: 40px;
 	}
 }
 
 @media (min-width: 992px) {
 	.text-extra-big {
-		font-size: 40px;
+		font-size: 44px;
 	}
 }
 
@@ -31145,6 +31145,7 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   line-height: 1;
   user-select: none;
 }
+
 
 
 
