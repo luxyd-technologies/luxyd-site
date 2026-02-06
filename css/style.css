@@ -9256,7 +9256,7 @@ mark,
 }
 
 .text-extra-big {
-	font-size: 38px;
+	font-size: 34px;
 	line-height: 1.2;
 }
 
@@ -31145,4 +31145,5 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
   line-height: 1;
   user-select: none;
 }
+
 
